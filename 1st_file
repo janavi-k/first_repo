@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+void main()
+{
+    printf("hiii");
+    printf("I'm janavi k");
+} 
